@@ -7,4 +7,4 @@ Nesse código é demonstrado alguns tipos transformações aplicando a bibliotec
 3. Mudança de contraste e brilho da imagem;
 4. Suavização.
    
-Para mais explicações sobre o funcionamento do código, o mesmo está inteiramente documentado. Para mais detalhes, todos os processos de operções usando OpenCV estão documetados no [Site](https://opencv.org/)
+Para mais explicações sobre o funcionamento do código, o mesmo está inteiramente documentado. E para mais detalhes, todos os processos de operções usando OpenCV estão documetados no [Site](https://opencv.org/) do mesmo.
