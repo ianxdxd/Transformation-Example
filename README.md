@@ -4,7 +4,9 @@ Para que possa acontecer as transformações é necessário o uso da biblioteca 
 Nesse código é demonstrado alguns tipos transformações aplicando a biblioteca **OpenCV e NumPy** como:
 1. Conversão de imagens RGB em Greyscale, convertendo imagens coloridas em imagens preto e branco;
 2. Negativo de imagens, invertendo suas cores originais;
-3. Mudança de contraste e brilho da imagem;
-4. Suavização.
+3. Mudança de contraste e brilho da imagem, mexendo na intensidade das cores e na luminosidade;
+4. Suavização, aplicando um blur.
+
+Ao abrir o código no Colab, para se poder ver as transformações, é preciso baixar uma imagem na pasta que se encontra no canto esquerdo da tela(melhor se forem imagens mais leves) e mudar o endereço da mesma nas partes do código onde se encontra o 'img = cv2.imread('tati.png',1)'.
    
-Para mais explicações sobre o funcionamento do código, o mesmo está inteiramente documentado. E para mais detalhes, todos os processos de operções usando OpenCV estão documetados no [Site](https://opencv.org/) do mesmo.
+Para mais explicações sobre o funcionamento do código, o mesmo está inteiramente documentado. E caso deseje mais detalhes, todos os processos de operções usando OpenCV estão documetados no [Site](https://opencv.org/) do mesmo.
