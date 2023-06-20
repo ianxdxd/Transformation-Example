@@ -9,7 +9,7 @@ Para que possa acontecer as transformações é necessário o uso da biblioteca 
 
 Ao abrir o código no Colab, para se poder ver as transformações, é preciso baixar uma imagem na pasta que se encontra no canto esquerdo da tela (melhor se forem imagens mais leves) e 
 mudar o endereço da mesma nas partes do código onde se encontra o:
-`img = cv2.imread('xxx.png',1)`
+`img = cv2.imread('xxx.png',1)`.
 Após esses passos, basta clicar no botão que está nas células e esperar que a máquina se conecte.
    
 Para mais explicações sobre o funcionamento do código, o mesmo está inteiramente documentado. E caso deseje mais detalhes, todos os processos de operções usando OpenCV estão documetados no [Site](https://opencv.org/) do mesmo.
